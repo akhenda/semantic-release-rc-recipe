@@ -19,6 +19,14 @@
 
 ### Bug Fixes
 
+* develop bump ([33dc88a](https://github.com/akhenda/semantic-release-rc-recipe/commit/33dc88a6f373f99ae4b0e8763ea48043c0150231))
+* develop bump ([6891b5b](https://github.com/akhenda/semantic-release-rc-recipe/commit/6891b5b62d2d474caa9ec1a15f426f34a8cffba2))
+
+## [1.1.1](https://github.com/akhenda/semantic-release-rc-recipe/compare/v1.1.0...v1.1.1) (2020-03-19)
+
+
+### Bug Fixes
+
 * develop bump ([6891b5b](https://github.com/akhenda/semantic-release-rc-recipe/commit/6891b5b62d2d474caa9ec1a15f426f34a8cffba2))
 
 # [1.1.0](https://github.com/akhenda/semantic-release-rc-recipe/compare/v1.0.1...v1.1.0) (2020-03-19)
