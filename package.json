@@ -31,7 +31,7 @@
         "name": "develop"
       },
       {
-        "name": "next",
+        "name": "next1",
         "channel": "rc",
         "prerelease": "rc"
       }
