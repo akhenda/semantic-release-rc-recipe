@@ -1,3 +1,10 @@
+# [1.1.0-rc.2](https://github.com/akhenda/semantic-release-rc-recipe/compare/v1.1.0-rc.1...v1.1.0-rc.2) (2020-03-19)
+
+
+### Features
+
+* bump ([a5093ac](https://github.com/akhenda/semantic-release-rc-recipe/commit/a5093ac5cc822ec22896a8135897111baac68877))
+
 # [1.1.0-rc.1](https://github.com/akhenda/semantic-release-rc-recipe/compare/v1.0.1...v1.1.0-rc.1) (2020-03-19)
 
 
