@@ -1,3 +1,10 @@
+## [1.2.3-rc.1](https://github.com/akhenda/semantic-release-rc-recipe/compare/v1.2.2...v1.2.3-rc.1) (2020-03-19)
+
+
+### Bug Fixes
+
+* next1 bump ([8d94557](https://github.com/akhenda/semantic-release-rc-recipe/commit/8d9455783317f9a09fbe342d8f53690837291ae7))
+
 ## [1.2.2](https://github.com/akhenda/semantic-release-rc-recipe/compare/v1.2.1...v1.2.2) (2020-03-19)
 
 
