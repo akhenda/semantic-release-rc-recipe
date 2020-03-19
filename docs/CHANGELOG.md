@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/akhenda/semantic-release-rc-recipe/compare/v1.2.1...v1.2.2) (2020-03-19)
+
+
+### Bug Fixes
+
+* ignore orig files ([70ec6ac](https://github.com/akhenda/semantic-release-rc-recipe/commit/70ec6acd3b5a039c6824acb88a6bc276f0e430eb))
+
 ## [1.2.1](https://github.com/akhenda/semantic-release-rc-recipe/compare/v1.2.0...v1.2.1) (2020-03-19)
 
 
